@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Collision.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Engine.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Game.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\input.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\matrix.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Pipeline.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Rendering.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Sound.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Time.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\vector.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Util.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Xml.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectPool.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DamageSystem.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterData.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Urus.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Util.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Xml.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DamageSystem.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterData.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Urus.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Image\backgrnd.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Image\background.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Image\block0.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Image\block1.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Image\chargeBar0.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Image\chargeBar1.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Image\hpBar0.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Image\hpBar1.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Image\map_bottom_0.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Image\mob.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Image\ㅡ.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Font\malgun.ttf" />
+    <Font Include="Font\malgunbd.ttf" />
+    <Font Include="Font\malgunsl.ttf" />
+    <Font Include="Font\Maple.ttf" />
+    <Font Include="Font\WandocleanseaB.ttf" />
+    <Font Include="Font\WandocleanseaR.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Sound\1000_die.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\1000_hit.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\2000_die.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\2000_hit.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\3000_die.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\3000_hit.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\4000_die.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\4000_hit.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\2201005_hit.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\2201005_use.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\2211003_use.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\22111000_hit.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\22111000_use.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\24121000_hit.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\24121000_loop.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\24121005_hit.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\24121005_loop.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\24121005_use.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\36001001_use.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\36001005_hit.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\36121002_hit.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\36121002_use.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\36121003_use.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\BGM.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\BtMouseClick.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\BtMouseOver.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\CharSelect.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\Elfwood.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\Henesys.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\Jump.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\LevelUp.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\Papulatus.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\Portal.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="Sound\Tombstone.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgui.ini" />
+  </ItemGroup>
+</Project>

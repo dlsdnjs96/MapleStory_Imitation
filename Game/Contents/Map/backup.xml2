@@ -1,0 +1,13 @@
+<Root MapId="1" Back="1" MapSizeX="1839" MapSizeY="1035">
+    <Objects Size="0"/>
+    <Foot>
+        <Vertexes Size="0"/>
+        <Indicies Size="0"/>
+    </Foot>
+    <Rope>
+        <Vertexes Size="0"/>
+        <Indicies Size="0"/>
+    </Rope>
+    <Monster Size="0"/>
+    <Portal Size="0"/>
+</Root>

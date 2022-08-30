@@ -1,0 +1,38 @@
+<Root tDuration="0" fPerSec="30" Size="12">
+    <Animation0 Size="1" PartName="Larm1">
+        <Ani0 time="0" posX="5.4000001" posY="0" rotation="106.6"/>
+    </Animation0>
+    <Animation1 Size="1" PartName="Larm2">
+        <Ani0 time="0" posX="0" posY="0" rotation="0"/>
+    </Animation1>
+    <Animation2 Size="1" PartName="Root">
+        <Ani0 time="0" posX="0" posY="280.39999" rotation="0"/>
+    </Animation2>
+    <Animation3 Size="1" PartName="arm1ToArm2">
+        <Ani0 time="0" posX="55.400002" posY="-148.8" rotation="0"/>
+    </Animation3>
+    <Animation4 Size="1" PartName="body">
+        <Ani0 time="0" posX="0" posY="5.5999999" rotation="0"/>
+    </Animation4>
+    <Animation5 Size="1" PartName="bodyToArm1">
+        <Ani0 time="0" posX="131.89999" posY="-40" rotation="0"/>
+    </Animation5>
+    <Animation6 Size="1" PartName="bodyToChin">
+        <Ani0 time="0" posX="314.70001" posY="-15.2" rotation="0"/>
+    </Animation6>
+    <Animation7 Size="1" PartName="bodyToHead">
+        <Ani0 time="0" posX="402.70001" posY="73.199997" rotation="0"/>
+    </Animation7>
+    <Animation8 Size="1" PartName="bodyToLeg">
+        <Ani0 time="0" posX="-312.79999" posY="-186" rotation="0"/>
+    </Animation8>
+    <Animation9 Size="1" PartName="chin">
+        <Ani0 time="0" posX="0" posY="0" rotation="-5.0999999"/>
+    </Animation9>
+    <Animation10 Size="1" PartName="head">
+        <Ani0 time="0" posX="0" posY="0" rotation="0"/>
+    </Animation10>
+    <Animation11 Size="1" PartName="leg">
+        <Ani0 time="0" posX="0" posY="0" rotation="0"/>
+    </Animation11>
+</Root>

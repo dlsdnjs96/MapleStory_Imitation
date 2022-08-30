@@ -1,0 +1,179 @@
+
+<Root MapId="1" Back="1" MapSizeX="1839" MapSizeY="1035" BGM = "Elfwood">
+    <Objects Size="0"/>
+    <Foot>
+        <Vertexes Size="55">
+            <Vertex0 posX="-920" posY="-325"/>
+            <Vertex1 posX="920" posY="-325"/>
+            <Vertex2 posX="-716" posY="-147"/>
+            <Vertex3 posX="-577" posY="-152"/>
+            <Vertex4 posX="-492" posY="-123"/>
+            <Vertex5 posX="-413" posY="-98"/>
+            <Vertex6 posX="-310" posY="-102"/>
+            <Vertex7 posX="-329" posY="22.999985"/>
+            <Vertex8 posX="-260" posY="43.999985"/>
+            <Vertex9 posX="-198" posY="37.999985"/>
+            <Vertex10 posX="-71" posY="63.999985"/>
+            <Vertex11 posX="-4" posY="62.999985"/>
+            <Vertex12 posX="98" posY="70.999985"/>
+            <Vertex13 posX="161" posY="61.999985"/>
+            <Vertex14 posX="188" posY="46.999985"/>
+            <Vertex15 posX="250" posY="55.999985"/>
+            <Vertex16 posX="292" posY="38.999985"/>
+            <Vertex17 posX="362" posY="38.999985"/>
+            <Vertex18 posX="411" posY="14.999985"/>
+            <Vertex19 posX="-804.5" posY="14.993744"/>
+            <Vertex20 posX="-766.5" posY="25.993744"/>
+            <Vertex21 posX="-672.5" posY="10.993744"/>
+            <Vertex22 posX="-600.5" posY="22.993744"/>
+            <Vertex23 posX="-532.5" posY="12.993744"/>
+            <Vertex24 posX="-488.5" posY="11.993744"/>
+            <Vertex25 posX="-400.5" posY="-16.006256"/>
+            <Vertex26 posX="-478" posY="239.99998"/>
+            <Vertex27 posX="-434" posY="244.99998"/>
+            <Vertex28 posX="-327" posY="229.99998"/>
+            <Vertex29 posX="-169" posY="223.99998"/>
+            <Vertex30 posX="-96" posY="187.99998"/>
+            <Vertex31 posX="-37" posY="194.99998"/>
+            <Vertex32 posX="50" posY="176.99998"/>
+            <Vertex33 posX="144" posY="152.99998"/>
+            <Vertex34 posX="170.5" posY="205.99998"/>
+            <Vertex35 posX="221.5" posY="218.99998"/>
+            <Vertex36 posX="289.5" posY="204.99998"/>
+            <Vertex37 posX="352.5" posY="208.99998"/>
+            <Vertex38 posX="384.5" posY="204.99998"/>
+            <Vertex39 posX="422.5" posY="231.99998"/>
+            <Vertex40 posX="537.5" posY="244.99998"/>
+            <Vertex41 posX="529.5" posY="-170.5"/>
+            <Vertex42 posX="567.5" posY="-153.5"/>
+            <Vertex43 posX="617.5" posY="-161.5"/>
+            <Vertex44 posX="669.5" posY="-149.5"/>
+            <Vertex45 posX="784.5" posY="-168.5"/>
+            <Vertex46 posX="872.5" posY="-196.5"/>
+            <Vertex47 posX="405.5" posY="-37.5"/>
+            <Vertex48 posX="486.5" posY="-30.5"/>
+            <Vertex49 posX="529.5" posY="-43.5"/>
+            <Vertex50 posX="597.5" posY="-36.5"/>
+            <Vertex51 posX="690.5" posY="-48.5"/>
+            <Vertex52 posX="603.5" posY="84.5"/>
+            <Vertex53 posX="666.5" posY="95.5"/>
+            <Vertex54 posX="901.5" posY="89.5"/>
+        </Vertexes>
+        <Indicies Size="46">
+            <Index0 pairA="0" pairB="1"/>
+            <Index1 pairA="2" pairB="3"/>
+            <Index2 pairA="3" pairB="4"/>
+            <Index3 pairA="4" pairB="5"/>
+            <Index4 pairA="5" pairB="6"/>
+            <Index5 pairA="7" pairB="8"/>
+            <Index6 pairA="8" pairB="9"/>
+            <Index7 pairA="9" pairB="10"/>
+            <Index8 pairA="10" pairB="11"/>
+            <Index9 pairA="11" pairB="12"/>
+            <Index10 pairA="12" pairB="13"/>
+            <Index11 pairA="13" pairB="14"/>
+            <Index12 pairA="14" pairB="15"/>
+            <Index13 pairA="15" pairB="16"/>
+            <Index14 pairA="16" pairB="17"/>
+            <Index15 pairA="17" pairB="18"/>
+            <Index16 pairA="19" pairB="20"/>
+            <Index17 pairA="20" pairB="21"/>
+            <Index18 pairA="21" pairB="22"/>
+            <Index19 pairA="22" pairB="23"/>
+            <Index20 pairA="23" pairB="24"/>
+            <Index21 pairA="24" pairB="25"/>
+            <Index22 pairA="26" pairB="27"/>
+            <Index23 pairA="27" pairB="28"/>
+            <Index24 pairA="28" pairB="29"/>
+            <Index25 pairA="29" pairB="30"/>
+            <Index26 pairA="30" pairB="31"/>
+            <Index27 pairA="31" pairB="32"/>
+            <Index28 pairA="32" pairB="33"/>
+            <Index29 pairA="34" pairB="35"/>
+            <Index30 pairA="35" pairB="36"/>
+            <Index31 pairA="36" pairB="37"/>
+            <Index32 pairA="37" pairB="38"/>
+            <Index33 pairA="38" pairB="39"/>
+            <Index34 pairA="39" pairB="40"/>
+            <Index35 pairA="41" pairB="42"/>
+            <Index36 pairA="42" pairB="43"/>
+            <Index37 pairA="43" pairB="44"/>
+            <Index38 pairA="44" pairB="45"/>
+            <Index39 pairA="45" pairB="46"/>
+            <Index40 pairA="47" pairB="48"/>
+            <Index41 pairA="48" pairB="49"/>
+            <Index42 pairA="49" pairB="50"/>
+            <Index43 pairA="50" pairB="51"/>
+            <Index44 pairA="52" pairB="53"/>
+            <Index45 pairA="53" pairB="54"/>
+        </Indicies>
+    </Foot>
+    <Rope>
+        <Vertexes Size="28">
+            <Vertex0 posX="-310" posY="-295"/>
+            <Vertex1 posX="-310" posY="-95"/>
+            <Vertex2 posX="-575.5" posY="-259.5"/>
+            <Vertex3 posX="-577.5" posY="-127.5"/>
+            <Vertex4 posX="-310" posY="-295"/>
+            <Vertex5 posX="-310" posY="-95"/>
+            <Vertex6 posX="-310" posY="-295"/>
+            <Vertex7 posX="-310" posY="-95"/>
+            <Vertex8 posX="-604.5" posY="-109.5"/>
+            <Vertex9 posX="-603.5" posY="33.5"/>
+            <Vertex10 posX="-254.5" posY="-230.5"/>
+            <Vertex11 posX="-250.5" posY="48.5"/>
+            <Vertex12 posX="-442" posY="99.999985"/>
+            <Vertex13 posX="-439" posY="254.99998"/>
+            <Vertex14 posX="-282" posY="90.999985"/>
+            <Vertex15 posX="-284" posY="234.99998"/>
+            <Vertex16 posX="208" posY="80.999985"/>
+            <Vertex17 posX="214" posY="230.99998"/>
+            <Vertex18 posX="254" posY="-218.00002"/>
+            <Vertex19 posX="258" posY="69.999985"/>
+            <Vertex20 posX="441" posY="30.999985"/>
+            <Vertex21 posX="446" posY="241.99998"/>
+            <Vertex22 posX="486.5" posY="-240.5"/>
+            <Vertex23 posX="484.5" posY="-23.5"/>
+            <Vertex24 posX="746.5" posY="-281.5"/>
+            <Vertex25 posX="745.5" posY="-139.5"/>
+            <Vertex26 posX="657.5" posY="-27.5"/>
+            <Vertex27 posX="653.5" posY="100.5"/>
+        </Vertexes>
+        <Indicies Size="15">
+            <Index0 pairA="0" pairB="1"/>
+            <Index1 pairA="2" pairB="3"/>
+            <Index2 pairA="0" pairB="1"/>
+            <Index3 pairA="0" pairB="1"/>
+            <Index4 pairA="8" pairB="9"/>
+            <Index5 pairA="10" pairB="11"/>
+            <Index6 pairA="12" pairB="13"/>
+            <Index7 pairA="14" pairB="15"/>
+            <Index8 pairA="16" pairB="17"/>
+            <Index9 pairA="18" pairB="19"/>
+            <Index10 pairA="20" pairB="21"/>
+            <Index11 pairA="22" pairB="23"/>
+            <Index12 pairA="24" pairB="25"/>
+            <Index13 pairA="26" pairB="26"/>
+            <Index14 pairA="26" pairB="27"/>
+        </Indicies>
+    </Rope>
+    <Monster Size="14">
+        <Mob0 mobId="6000" posX="-628.5" posY="-92.5"/>
+        <Mob1 mobId="6000" posX="-401.5" posY="-66.5"/>
+        <Mob2 mobId="6000" posX="-692.5" posY="56.5"/>
+        <Mob3 mobId="6000" posX="-481.5" posY="52.5"/>
+        <Mob4 mobId="6000" posX="-220.5" posY="77.5"/>
+        <Mob5 mobId="6000" posX="34.5" posY="89.5"/>
+        <Mob6 mobId="6000" posX="276.5" posY="88.5"/>
+        <Mob7 mobId="6000" posX="539.5" posY="-10.5"/>
+        <Mob8 mobId="6000" posX="737.5" posY="122.5"/>
+        <Mob9 mobId="6000" posX="754.5" posY="-129.5"/>
+        <Mob10 mobId="6000" posX="-662.49994" posY="70.250496"/>
+        <Mob11 mobId="6000" posX="-381.49994" posY="272.25049"/>
+        <Mob12 mobId="6000" posX="-27.499939" posY="217.25049"/>
+        <Mob13 mobId="6000" posX="364.50006" posY="261.25049"/>
+    </Monster>
+    <Portal Size="1">
+        <pt0 toMapId="2" fromX="-819" fromY="-330" toX="1008" toY="-430"/>
+    </Portal>
+</Root>

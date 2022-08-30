@@ -1,0 +1,50 @@
+<Root tDuration="1" fPerSec="30" Size="12">
+    <Animation0 Size="2" PartName="Root">
+        <Ani0 time="0" posX="0" posY="0" rotation="0"/>
+        <Ani1 time="1" posX="0" posY="0" rotation="0"/>
+    </Animation0>
+    <Animation1 Size="2" PartName="arm1">
+        <Ani0 time="0" posX="0" posY="0" rotation="0"/>
+        <Ani1 time="1" posX="0" posY="0" rotation="0"/>
+    </Animation1>
+    <Animation2 Size="2" PartName="arm1ToArm2">
+        <Ani0 time="0" posX="0" posY="0" rotation="0"/>
+        <Ani1 time="1" posX="0" posY="0" rotation="0"/>
+    </Animation2>
+    <Animation3 Size="2" PartName="arm2">
+        <Ani0 time="0" posX="0" posY="0" rotation="0"/>
+        <Ani1 time="1" posX="0" posY="0" rotation="0"/>
+    </Animation3>
+    <Animation4 Size="2" PartName="body">
+        <Ani0 time="0" posX="0" posY="0" rotation="0"/>
+        <Ani1 time="1" posX="0" posY="0" rotation="0"/>
+    </Animation4>
+    <Animation5 Size="2" PartName="bodyToArm1">
+        <Ani0 time="0" posX="0" posY="0" rotation="0"/>
+        <Ani1 time="1" posX="0" posY="0" rotation="0"/>
+    </Animation5>
+    <Animation6 Size="2" PartName="bodyToHead">
+        <Ani0 time="0" posX="395.70001" posY="0" rotation="0"/>
+        <Ani1 time="1" posX="395.70001" posY="129" rotation="0"/>
+    </Animation6>
+    <Animation7 Size="2" PartName="bodyToLeg">
+        <Ani0 time="0" posX="0" posY="0" rotation="0"/>
+        <Ani1 time="1" posX="0" posY="0" rotation="0"/>
+    </Animation7>
+    <Animation8 Size="2" PartName="bodyToMouth">
+        <Ani0 time="0" posX="0" posY="0" rotation="0"/>
+        <Ani1 time="1" posX="0" posY="0" rotation="0"/>
+    </Animation8>
+    <Animation9 Size="2" PartName="head">
+        <Ani0 time="0" posX="0" posY="0" rotation="0"/>
+        <Ani1 time="1" posX="0" posY="0" rotation="0"/>
+    </Animation9>
+    <Animation10 Size="2" PartName="leg">
+        <Ani0 time="0" posX="0" posY="0" rotation="0"/>
+        <Ani1 time="1" posX="0" posY="0" rotation="0"/>
+    </Animation10>
+    <Animation11 Size="2" PartName="mouth">
+        <Ani0 time="0" posX="0" posY="0" rotation="0"/>
+        <Ani1 time="1" posX="0" posY="0" rotation="0"/>
+    </Animation11>
+</Root>

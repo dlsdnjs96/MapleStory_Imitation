@@ -1,0 +1,58 @@
+<Root MapId="2" Back="2" MapSizeX="2250" MapSizeY="1375" BGM="Henesys">
+    <Objects Size="0"/>
+    <Foot>
+        <Vertexes Size="26">
+            <Vertex0 posX="-1125" posY="-435"/>
+            <Vertex1 posX="1125" posY="-435"/>
+            <Vertex2 posX="-470.00006" posY="-401"/>
+            <Vertex3 posX="-394.00006" posY="-401"/>
+            <Vertex4 posX="-382.00006" posY="-340.5"/>
+            <Vertex5 posX="-305.00006" posY="-338.5"/>
+            <Vertex6 posX="-291.00006" posY="-284"/>
+            <Vertex7 posX="376" posY="-284"/>
+            <Vertex8 posX="389.5" posY="-343"/>
+            <Vertex9 posX="469.5" posY="-343"/>
+            <Vertex10 posX="481" posY="-400"/>
+            <Vertex11 posX="557.5" posY="-400"/>
+            <Vertex12 posX="-471.00006" posY="-225.5"/>
+            <Vertex13 posX="-339.00006" posY="-224.5"/>
+            <Vertex14 posX="428.5" posY="-225.5"/>
+            <Vertex15 posX="559" posY="-226.5"/>
+            <Vertex16 posX="607.5" posY="-167.5"/>
+            <Vertex17 posX="741" posY="-167.5"/>
+            <Vertex18 posX="-738" posY="-166.5"/>
+            <Vertex19 posX="-528" posY="-167.5"/>
+            <Vertex20 posX="-833.5" posY="14.861328"/>
+            <Vertex21 posX="-428.5" posY="14.861"/>
+            <Vertex22 posX="-1103.5" posY="312.36099"/>
+            <Vertex23 posX="-699" posY="312.36099"/>
+            <Vertex24 posX="-654" posY="250.86099"/>
+            <Vertex25 posX="-520.5" posY="250.86099"/>
+        </Vertexes>
+        <Indicies Size="13">
+            <Index0 pairA="0" pairB="1"/>
+            <Index1 pairA="2" pairB="3"/>
+            <Index2 pairA="4" pairB="5"/>
+            <Index3 pairA="6" pairB="7"/>
+            <Index4 pairA="8" pairB="9"/>
+            <Index5 pairA="10" pairB="11"/>
+            <Index6 pairA="12" pairB="13"/>
+            <Index7 pairA="14" pairB="15"/>
+            <Index8 pairA="16" pairB="17"/>
+            <Index9 pairA="18" pairB="19"/>
+            <Index10 pairA="20" pairB="21"/>
+            <Index11 pairA="22" pairB="23"/>
+            <Index12 pairA="24" pairB="25"/>
+        </Indicies>
+    </Foot>
+    <Rope>
+        <Vertexes Size="1">
+            <Vertex0 posX="-532.8186" posY="-171.5"/>
+        </Vertexes>
+        <Indicies Size="0"/>
+    </Rope>
+    <Monster Size="0"/>
+    <Portal Size="1">
+        <pt0 fromX="1008" fromY="-430" toX="-819" toY="-330" toMapId="1"/>
+    </Portal>
+</Root>

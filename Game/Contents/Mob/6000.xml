@@ -1,0 +1,6 @@
+<Root chaseRange = "1500" attackRange = "1000" movingSpeed = "70" maxHp = "300" physicalAttack = "10" physicalAmour = "10" movingType = "6">
+    <StateImageSize ImageSize0 = "12" ImageSize1 = "6" ImageSize2="0" ImageSize3="1" ImageSize4="6" ImageSize5="24" ImageSize6="5" ImageSize7="1" ImageSize8="0" ImageSize9="0">
+    </StateImageSize>
+    <HitBox LenX = "63" LenY = "58" Angle = "0" LocX = "0" LocY = "29">
+    </HitBox>
+</Root>
